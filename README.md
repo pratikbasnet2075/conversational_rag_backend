@@ -189,8 +189,8 @@ An example conversation:
 | User | Assistant |
 |---|---|
 | I'd like to book an interview. | Asks for the candidate's details. |
-| My name is Alex Sharma. | Requests the remaining information. |
-| My email is alex@example.com. | Requests the preferred date and time. |
+| My name is Ram Prasad Sharma. | Requests the remaining information. |
+| My email is ram@example.com. | Requests the preferred date and time. |
 | December 10, 2026, at 11 AM. | Presents a booking summary for confirmation. |
 | Confirm booking. | Saves the booking and returns a booking ID. |
 
