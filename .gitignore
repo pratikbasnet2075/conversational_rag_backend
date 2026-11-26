@@ -1,0 +1,37 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+api_key
+
+# Virtual environments
+.venv/
+.venv-local/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime storage
+uploads/
+qdrant_storage/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

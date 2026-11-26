@@ -1,0 +1,14 @@
+fastapi
+pydantic>=2.7,<3
+uvicorn
+python-multipart
+pymupdf
+langchain-text-splitters
+sentence-transformers
+qdrant-client
+sqlalchemy
+groq
+python-dotenv
+redis
+email-validator
+tzdata

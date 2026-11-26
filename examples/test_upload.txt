@@ -1,0 +1,2 @@
+Hi i am uploading this to test whether my POST works and returns HTTP 200, a document_id and a positive  stored_vector count.
+After this I will start building the conversational API.
